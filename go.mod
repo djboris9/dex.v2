@@ -1,5 +1,4 @@
-module github.com/djboris9/dex.v2/v2
-
+module github.com/djboris9/dex.v2
 go 1.13
 
 require (
